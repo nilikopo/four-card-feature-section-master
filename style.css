@@ -149,4 +149,8 @@ body{
     .card-description{
         font-size: 12px;
     }
+    /* verison 2, card width fixed */
+    .card-holder-center-inner{
+        width: 100%;
+    }
 }
